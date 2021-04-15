@@ -56,7 +56,7 @@ settings = {
 
         # If enabled only saves the channel id's inside
         # the Channel_Whitelist list.
-        "Save_only_Whitelist": True,
+        "Save_only_Whitelist": False,
 
         # List of channels to only save if
         # Save_only_Whitelist is True
