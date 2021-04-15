@@ -6,6 +6,7 @@ This is a self bot and self bots are against [Discords terms of service](https:/
 3. Open the file in a editor of your choose you can use notepad.
 4. Replace GUILDIDHERE with the id of the guild you want to download, Replace TOKENHERE with your discord token.
 5. Customize the settings to your liking.
+6. Make sure to install requests aswell windows "python -m pip install requests" and linux "pip install requests"
 # FAQ
 <b>How do I get my token?</b><br>
 Here is a youtube video that will show you: https://www.youtube.com/watch?v=YEgFvgg7ZPI . And if that doesn't work just use google to find out how to use it.<br>
